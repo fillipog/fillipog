@@ -1,10 +1,5 @@
 <h1 align="center">I'm Fillipo Goldoni 🤟</h1>
 <h3 align="center">develop Brazil's front-end under constant study 📚</h3>
-<div>
-  <a href="https://github.com/fillipog">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fillipo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fillipo&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 - 🌱 I’m currently learning **Html5, Css3, Sass, Javascript, Typescript,React.js, React Native, Node.js,,**
 
